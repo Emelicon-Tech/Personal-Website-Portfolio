@@ -1,0 +1,14 @@
+I want to design a page that looks like Jason Spielman's page, but this time it is about me. What do I need to provide to you?
+From what I shared/uploaded, you will see my CV, which includes my LinkedIn page link.
+Also, my pictures are uploaded.
+I am currently enrolled in an AI training with Turing Tech to become an AI engineer who builds AI models.
+Can you remove the background from the image?
+Also, use ICAN Professional Level. remove in view
+Use Canva where necessary
+Is it proper to include my work history in this type of site?
+Redesign the experience section into achievement cards in Jason Spielman's style
+Evaluate the personal portfolio you did and confirm if its the best based on all the information i provided and what is obtainable internationally
+Can you fix those missing things and give me the latest result i can run on VSCode
+My hero section seems crowded. Can you minimize and make it simple and professional?
+Also, the achievement section has some icons which shows cartoon and an AI generated. remove it and place something human-generated.
+The write-up on the footer is too generic. change and put something that aligns with finance and AI beginner things.
